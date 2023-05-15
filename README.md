@@ -1,4 +1,5 @@
-# Terribly Tiny Tales Word Count App
+# *** Terribly Tiny Tales Assignment ***
+ ============= ============= =============
 
 This is a simple web application built using React that allows users to count the words in a text file from https://www.terriblytinytales.com and display the top 20 most frequently occurring words in a bar chart. The user can also export the data as a CSV file.
 
@@ -9,9 +10,9 @@ This is a simple web application built using React that allows users to count th
 
 ### `Libraries and Plugins Used`
 
-*React - a JavaScript library for building user interfaces
-*recharts - a charting library for React that makes it easy to create reusable charts
-*react-csv - a library for creating CSV files from data in React applications
+*  React - a JavaScript library for building user interfaces
+*  recharts - a charting library for React that makes it easy to create reusable charts
+*  react-csv - a library for creating CSV files from data in React applications
 
 
 
@@ -20,9 +21,9 @@ This is a simple web application built using React that allows users to count th
 
 The App component contains all the main logic and functionality of the app. It has three states:
 
-content: This state holds the contents of the text file fetched from the API.
-wordCounts: This state holds an object containing the word counts for each word in the text file.
-error: This state holds any error that occurs during the fetch operation.
+* content: This state holds the contents of the text file fetched from the API.
+* wordCounts: This state holds an object containing the word counts for each word in the text file.
+* error: This state holds any error that occurs during the fetch operation.
 
 
 
