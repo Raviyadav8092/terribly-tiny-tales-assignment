@@ -9,9 +9,9 @@ This is a simple web application built using React that allows users to count th
 
 ### `Libraries and Plugins Used`
 
-React - a JavaScript library for building user interfaces
-recharts - a charting library for React that makes it easy to create reusable charts
-react-csv - a library for creating CSV files from data in React applications
+*React - a JavaScript library for building user interfaces
+*recharts - a charting library for React that makes it easy to create reusable charts
+*react-csv - a library for creating CSV files from data in React applications
 
 
 
