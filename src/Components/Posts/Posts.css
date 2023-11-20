@@ -1,0 +1,27 @@
+#top{
+    margin-top: 4%;
+}
+#po{
+    color: rgb(0, 221, 255);
+}
+#by{
+    color: aqua;
+}
+#byname{
+    font-weight: 700;
+}
+#details{
+    font-size: small;
+    color: #868787;
+    font-weight: 700;
+}
+#map{
+    margin-top: 4%;
+}
+#content{
+    margin-top: 2%;
+    margin-bottom: 4%;
+    color: #5b5b5b;
+    font-weight: 600;
+    font-size: medium;
+}

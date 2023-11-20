@@ -1,0 +1,17 @@
+#logo{
+    margin-left: 20%;
+    border-radius: 50%;
+}
+#demo{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: larger;
+    letter-spacing: 0.3rem;
+}
+#slash{
+    color: rgb(255, 196, 0);
+    font-size: x-large;
+}
+#but{
+    margin-right: 5%;
+}

@@ -1,0 +1,27 @@
+#image{
+    border-radius: 50%;
+    margin-top: -15%;
+    border: 3px solid #868787;
+}
+#name{
+    padding-top: 3%;
+    margin-left: -5%;
+}
+#position{
+    padding-top: 3%;
+    color: #868787;
+    font-weight: 500;
+}
+.bot{
+    background: white;
+    padding: 2% 15%;
+    color: #868787;
+    border-width: 2px;
+    font-weight: 700;
+    font-size: larger;
+}
+.likes{
+    font-size: large;
+    font-weight: 500;
+    color: #868787;
+}

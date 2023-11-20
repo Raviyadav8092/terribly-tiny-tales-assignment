@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "name": "Tony Stark",
+    "background": "https://c4.wallpaperflare.com/wallpaper/676/163/621/minimalism-artwork-superhero-cartoon-wallpaper-preview.jpg",
+    "pic": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/rdj-sixteen_nine.jpg?VersionId=8uGUiM4UFJ9RbMrcZm_XTNmsKJ7_mUW1&size=250:250",
+    "followers": 500000,
+    "following": 2000,
+    "position": "Co-founder & CEO at Stark Industries",
+    "link": "https://github.com/Raviyadav8092",
+    "stars": 100,
+    "likes": "80K",
+    "views": "344k",
+    "hearts": 800
+  },
+  "posts": [
+    {
+      "title": "The Epic Battle: Avengers vs. Justice League",
+      "content": "Witness the clash of two legendary superhero teams as the Avengers and Justice League face off in an epic battle for the fate of the universe. Explore the strengths, strategies, and iconic moments of this monumental showdown.",
+      "date": "June 8",
+      "read_time": "10 min",
+      "views": 280
+    },
+    {
+      "title": "Origin Stories: Iron Man vs. Batman",
+      "content": "Delve into the origin stories of two billionaire playboys turned superhero icons. Compare the journeys of Iron Man and Batman, exploring their gadgets, allies, and the challenges that shaped them into formidable crime-fighters.",
+      "date": "July 15",
+      "read_time": "14 min",
+      "views": 320
+    },
+    {
+      "title": "Mysteries of the Multiverse: Marvel's Multiverse vs. DC's Multiverse",
+      "content": "Unravel the mysteries of the multiverse as Marvel and DC Comics present their intricate and interconnected universes. Explore the concept of alternate realities, parallel dimensions, and the impact on your favorite superheroes.",
+      "date": "August 3",
+      "read_time": "18 min",
+      "views": 420
+    },
+    {
+      "title": "Superhero Tech Showdown: Wakanda vs. Wayne Enterprises",
+      "content": "Step into the tech-driven worlds of Wakanda and Wayne Enterprises. Analyze the advanced technology and innovations behind Black Panther's kingdom and Batman's empire, and decide which superhero tech reigns supreme.",
+      "date": "September 12",
+      "read_time": "20 min",
+      "views": 500
+    },
+    {
+      "title": "Crossover Extravaganza: When Marvel Met DC",
+      "content": "Relive the historic crossovers that brought Marvel and DC characters together. From iconic team-ups to unexpected alliances, explore the crossover events that shaped the comic book landscape.",
+      "date": "October 7",
+      "read_time": "12 min",
+      "views": 350
+    },
+    {
+      "title": "Behind the Masks: Marvel and DC's Secret Identities",
+      "content": "Explore the secret identities that define Marvel and DC's most iconic superheroes. From Spider-Man's dual life as Peter Parker to Batman's enigmatic persona as Bruce Wayne, uncover the hidden truths behind the masks.",
+      "date": "November 15",
+      "read_time": "16 min",
+      "views": 420
+    },
+    {
+      "title": "Villains Unleashed: Marvel's Sinister Six vs. DC's Legion of Doom",
+      "content": "Dive into the depths of villainy as Marvel's Sinister Six take on DC's Legion of Doom. Analyze the motives, powers, and schemes of these notorious supervillain groups in a battle for dominance.",
+      "date": "December 9",
+      "read_time": "14 min",
+      "views": 380
+    },
+    {
+      "title": "Magic and Mysticism: Doctor Strange vs. Zatanna",
+      "content": "Embark on a mystical journey with Doctor Strange and Zatanna, two sorcerers from Marvel and DC. Explore the realms of magic, spells, and otherworldly dimensions as these magical heroes clash in a magical showdown.",
+      "date": "January 18",
+      "read_time": "22 min",
+      "views": 550
+    },
+    {
+      "title": "Legends of Atlantis: Namor vs. Aquaman",
+      "content": "Plunge into the depths of the ocean as Marvel's Namor faces off against DC's Aquaman. Explore the underwater realms, royal conflicts, and the unique powers that make these aquatic heroes legendary.",
+      "date": "February 22",
+      "read_time": "18 min",
+      "views": 480
+    },
+    {
+      "title": "Gotham City and Hell's Kitchen: A Comparative Analysis",
+      "content": "Compare the dark and gritty streets of Gotham City with the crime-ridden alleys of Hell's Kitchen. Analyze the urban landscapes, crime rates, and the vigilantes that patrol these iconic comic book cities.",
+      "date": "March 10",
+      "read_time": "15 min",
+      "views": 400
+    },
+    {
+      "title": "The Speed Force vs. The Quantum Realm: Marvel and DC's Cosmic Realms",
+      "content": "Journey into the cosmic realms of Marvel and DC as we explore the Speed Force and the Quantum Realm. Dive into the physics, mysteries, and mind-bending experiences that define these otherworldly dimensions.",
+      "date": "April 5",
+      "read_time": "20 min",
+      "views": 600
+    },
+    {
+      "title": "Redemption Arcs: Marvel and DC's Antiheroes",
+      "content": "Explore the complex and compelling redemption arcs of Marvel and DC's antiheroes. From Venom's struggle with his dark side to the enigmatic journey of the Suicide Squad, delve into the shades of gray in superhero narratives.",
+      "date": "May 14",
+      "read_time": "14 min",
+      "views": 350
+    }
+  ]
+}
