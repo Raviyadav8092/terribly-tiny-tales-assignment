@@ -1,6 +1,6 @@
 # React Profile Screen Project
 
-This React application is a simple profile screen that renders information about the fictional character Tony stark, famously known as Iron man in the Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Tony stark and explore information about Marvel movies post the introduction of the Multiverse concept in Phase 5.
+This React application is a simple profile screen that renders information about the fictional character Tony stark, famously known as Iron man in the Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Tony stark and explore information about DC vs marvel.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The **About Component** displays information about Tony stark. Users can explore
 
 ### Posts Component
 
-The **Posts Component** provides information about Marvel movies, specifically focusing on details introduced in Phase 5 related to the Multiverse concept. Users can find posts or sections dedicated to different Marvel movies and their connections to the Multiverse concept. Similar to the **About Component**, the data is hardcoded and sourced from a local JSON file.
+The **Posts Component** provides information about Marvel movies, specifically focusing on DC vs marvel . Users can find posts or sections dedicated to different Marvel movies and their connections to the Multiverse concept. Similar to the **About Component**, the data is hardcoded and sourced from a local JSON file.
 
 ### Components Folder
 
