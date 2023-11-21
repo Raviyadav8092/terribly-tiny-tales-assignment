@@ -1,12 +1,12 @@
 # React Profile Screen Project
 
-This React application is a simple profile screen that renders information about the fictional character Tom Hiddleston, famously known as Loki in the Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Tom Hiddleston and explore information about Marvel movies post the introduction of the Multiverse concept in Phase 5.
+This React application is a simple profile screen that renders information about the fictional character Tony stark, famously known as Iron man in the Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Tony stark and explore information about Marvel movies post the introduction of the Multiverse concept in Phase 5.
 
 ## Project Overview
 
 ### About Component
 
-The **About Component** displays information about Tom Hiddleston. Users can explore details such as his biography, interests, or any other relevant information. The content is statically rendered using data stored in a local JSON file.
+The **About Component** displays information about Tony stark. Users can explore details such as his biography, interests, or any other relevant information. The content is statically rendered using data stored in a local JSON file.
 
 ### Posts Component
 
