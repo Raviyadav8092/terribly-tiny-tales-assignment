@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# React Profile Screen Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React application is a simple profile screen that renders information about the fictional character Tom Hiddleston, famously known as Loki in the Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Tom Hiddleston and explore information about Marvel movies post the introduction of the Multiverse concept in Phase 5.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+### About Component
 
-### `npm start`
+The **About Component** displays information about Tom Hiddleston. Users can explore details such as his biography, interests, or any other relevant information. The content is statically rendered using data stored in a local JSON file.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Posts Component
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The **Posts Component** provides information about Marvel movies, specifically focusing on details introduced in Phase 5 related to the Multiverse concept. Users can find posts or sections dedicated to different Marvel movies and their connections to the Multiverse concept. Similar to the **About Component**, the data is hardcoded and sourced from a local JSON file.
 
-### `npm test`
+### Components Folder
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The **Components Folder** is an organizational structure that houses React components. This best practice helps in maintaining a clean and scalable project structure.
 
-### `npm run build`
+## Project Structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **App.js:** The main component where **About** and **Posts** components are imported and utilized.
+- **data.json:** The local JSON file containing hardcoded profile data, utilized by the **About** and **Posts** components.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To run the project locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   git clone https://github.com/Raviyadav8092/terribly-tiny-tales-assignment.git
