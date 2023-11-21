@@ -2,31 +2,49 @@
 
 This React application is a simple profile screen that renders information about the fictional character Tony stark, famously known as Iron man in the Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Tony stark and explore information about DC vs marvel.
 
-## Project Overview
+## It is hosted on netlify. Click on to visit: https://ravi-terriblytinytales.netlify.app/
 
-### About Component
+## Features
 
-The **About Component** displays information about Tony stark. Users can explore details such as his biography, interests, or any other relevant information. The content is statically rendered using data stored in a local JSON file.
+ - Responsive design for various screen sizes.
+ - Bootstrap for styling components and layout.
+ - Font Awesome icons for enhanced visual elements.
+ - Hardcoded profile data in a JSON file.
 
-### Posts Component
+## Technologies used
 
-The **Posts Component** provides information about Marvel movies, specifically focusing on DC vs marvel . Users can find posts or sections dedicated to different Marvel movies and their connections to the Multiverse concept. Similar to the **About Component**, the data is hardcoded and sourced from a local JSON file.
-
-### Components Folder
-
-The **Components Folder** is an organizational structure that houses React components. This best practice helps in maintaining a clean and scalable project structure.
-
-## Project Structure
-
-
-- **App.js:** The main component where **About** and **Posts** components are imported and utilized.
-- **data.json:** The local JSON file containing hardcoded profile data, utilized by the **About** and **Posts** components.
+This project makes use of the following technologies and tools:
+ 
+ - React.js: A JavaScript library for building user interfaces. It enables the creation of reusable UI components.
+ - Bootstrap: A popular front-end framework for designing responsive and visually appealing web pages. Bootstrap provides a set of CSS and JavaScript components for building a responsive and mobile-first user interface.
+ - Font Awesome Icons: A comprehensive collection of icons that can be easily customized and styled using CSS. Font Awesome icons enhance the visual elements of the project.
+ - JSON: The profile data is hardcoded in a JSON file, providing a simple and structured way to store and manage the data.
+ - npm: The Node Package Manager is used for installing and managing project dependencies.
+ 
+These technologies work together to create a dynamic and responsive profile page, providing a seamless user experience across different devices and screen sizes.
 
 ## Getting Started
 
-To run the project locally, follow these steps:
+To run the app, first clone the repository to your local machine:
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Raviyadav8092/terribly-tiny-tales-assignment.git
+git clone https://github.com/Raviyadav8092/terribly-tiny-tales-assignment.git
+
+
+Then, navigate to the project directory and install the required dependencies:
+
+
+cd terrible-tiny-tales-assignment
+npm install
+
+
+Finally, start the development server:
+
+
+npm start
+
+
+This will open the app in your default browser at http://localhost:3000.
+
+ ## Acknowledgment
+This app was built as part of a coding Assignment. Thanks to Terribly Tiny Tales for the opportunity!
